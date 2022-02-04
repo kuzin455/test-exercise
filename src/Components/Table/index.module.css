@@ -1,0 +1,12 @@
+.headerRow {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.bodyRow {
+    display: flex;
+    justify-content: space-between;
+}
+.cell {
+    padding: 10px;
+}

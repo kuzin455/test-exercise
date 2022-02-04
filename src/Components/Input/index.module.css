@@ -1,0 +1,12 @@
+.root {
+    background-color: #fff;
+    height: calc(2.25rem + 2px);
+    font-size: 1rem;
+    border: 1px solid #D3D3D3;
+    border-radius: 0.25rem;
+    outline: none
+}
+
+.root:focus {
+    outline: 3px solid #D3D3D3;
+}
