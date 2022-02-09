@@ -1,12 +1,20 @@
+.table {
+  width: 50%;
+  margin: 0 auto;
+  
+}
 .headerRow {
-    display: flex;
-    justify-content: space-between;
-    font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
 }
 .bodyRow {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 .cell {
-    padding: 10px;
+  padding: 10px;
+}
+.cell:last-of-type{
+    text-align: right;
 }
